@@ -1,6 +1,11 @@
+//go:build unit
+// +build unit
+
 package yamltohtml_test
 
 import (
+	"fmt"
+	"os"
 	"testing"
 
 	"github.com/ajaykakodia/go-testing/yamltohtml"
@@ -10,6 +15,13 @@ type TestCase struct {
 	desc     string
 	path     string
 	expected string
+}
+
+func TestMain(m *testing.M) {
+	fmt.Println("Hello we started test")
+	ret := m.Run()
+	fmt.Println("Test have executed")
+	os.Exit(ret)
 }
 
 func TestYamltoHTML(t *testing.T) {
