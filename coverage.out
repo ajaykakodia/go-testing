@@ -1,0 +1,11 @@
+mode: set
+github.com/ajaykakodia/go-testing/calculator/calculator.go:8.39,13.2 4 1
+github.com/ajaykakodia/go-testing/yamltohtml/yamltohtml.go:16.46,19.16 2 1
+github.com/ajaykakodia/go-testing/yamltohtml/yamltohtml.go:23.2,24.16 2 1
+github.com/ajaykakodia/go-testing/yamltohtml/yamltohtml.go:28.2,30.16 3 1
+github.com/ajaykakodia/go-testing/yamltohtml/yamltohtml.go:34.2,35.54 2 1
+github.com/ajaykakodia/go-testing/yamltohtml/yamltohtml.go:39.2,39.26 1 1
+github.com/ajaykakodia/go-testing/yamltohtml/yamltohtml.go:19.16,21.3 1 0
+github.com/ajaykakodia/go-testing/yamltohtml/yamltohtml.go:24.16,26.3 1 0
+github.com/ajaykakodia/go-testing/yamltohtml/yamltohtml.go:30.16,32.3 1 0
+github.com/ajaykakodia/go-testing/yamltohtml/yamltohtml.go:35.54,37.3 1 0
